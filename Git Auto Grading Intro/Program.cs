@@ -25,7 +25,7 @@
         public static int Multiply(int a, int b)
         {
             // Code
-            return a + b; // Placeholder
+            return a * b; // Placeholder
         }
         public static decimal Divide(int a, int b)
         {
